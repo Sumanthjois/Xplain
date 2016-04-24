@@ -1,0 +1,9 @@
+
+//This will be soon populated with other file related errors or exceptions.
+{
+    "java.io.FileNotFoundException":[{
+                                         "Xplain":"Mr.JVM says: The file you are trying to open is not found.",
+                                         "Solution":"Solution: Check the path of your file again, If your file doesn't exist there and just create one ."
+                                     }]
+    
+}
